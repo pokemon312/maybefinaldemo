@@ -218,6 +218,8 @@ i:hover{
     }
     .centercontent{
         padding: 4rem;
+        padding-top:0;
+        margin-left:10%;
     }
     .hide{
         display: none;
